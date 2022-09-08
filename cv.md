@@ -11,7 +11,7 @@
 * E-mail: yuriioborskiy@gmail.com
 * Telegram: @yura0790
 * GitHub: yura0790
-* Linkedin: linkedin.com/in/юрий-оборский-590b0024a
+* [Linkedin](http://linkedin.com/in/юрий-оборский-590b0024a)
 
 -----------------------------------------
 #### About me:
