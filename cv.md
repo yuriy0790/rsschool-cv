@@ -44,8 +44,16 @@ Head of the laboratory (Engeeniring services for Nuclear power plants safety imp
 
 -----------------------------------------
 #### Code example:
-
-<dsadasd>
+_Codewars KATA: You want to know if you're better than the average student in your class._
+_You receive an array with your peers' test scores. Now calculate the average and compare your score!_
+```
+function betterThanAverage(classPoints, yourPoints) {
+  let sum=0;
+    for (const point of classPoints) { 
+    sum+=point};
+return yourPoints>sum/classPoints.length
+}
+```
 
 -----------------------------------------
 #### Languages:
