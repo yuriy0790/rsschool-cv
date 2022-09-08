@@ -6,11 +6,11 @@
 
 #### Contact information:
 
-Phone: +380979426800
-E-mail:yuriioborskiy@gmail.com
-Telegram:@yura0790
-GitHub:yura0790
-Linkedin: linkedin.com/in/юрий-оборский-590b0024a
+* Phone: +380979426800
+* E-mail: yuriioborskiy@gmail.com
+* Telegram: @yura0790
+* GitHub: yura0790
+* Linkedin: linkedin.com/in/юрий-оборский-590b0024a
 
 #### About me:
 
@@ -30,12 +30,12 @@ Head of the laboratory (Engeeniring services for Nuclear power plants safety imp
 
 #### Skills and proficiency:
 
-JavaScript
-HTML,CSS
-Git, GitHub
-VS Code
-Figma
-CAD/CAE systems
+* JavaScript
+* HTML,CSS
+* Git, GitHub
+* VS Code
+* Figma
+* CAD/CAE systems
 
 #### Code example:
 
@@ -43,6 +43,6 @@ CAD/CAE systems
 
 #### Languages:
 
-Ukrainian - native
-Russian - proficient
-English - intermediate
+* Ukrainian - native
+* Russian - proficient
+* English - intermediate
